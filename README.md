@@ -1,3 +1,3 @@
 # first
 This is my first git Repository
-Author: Sarowar Jahan Biswas(AG)
+Author: Sarowar Jahan Biswas
